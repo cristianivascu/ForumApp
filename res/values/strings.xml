@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ForumApp</string>
+    <string name="main_title">The Informatics Forum</string> 
+    <string name="directions_label">Directions</string> 
+    <string name="eat_label">Eat &#38; Drink</string> 
+    <string name="sleep_label">Places to Sleep</string>
+    <string name="otherinfo_label">Other Info</string>
+    <string name="otherinfo_title">Other General Information</string>
+    <string name="otherinfo_text">\n
+Emergency number: 999\n\n
+Calling code: +44 \n\n
+Currency: Pound sterling (GBP), symbol £ \n\n
+Driving: on the left side of the road\n\n
+Electrical outlets: 230V, BS 1363 plug. If\n required, 
+adapters can be purchased from\n the airport, or cheaper from almost any\n shop in the city.\n\n
+Climate: oceanic/temperate. Winters are\n mild and summers are usually rainy.
+
+
+
+</string>
+    
+<string name="directions_title">Directions</string>
+    
+
+<string name="eat_title">Restaurants </string>
+<string name="drink_title">Bars &#38; Cafes</string>
+<string name="sleep_title">Hotels</string>
+    
+
+
+<string name="map_title">Map</string>
+    
+   
+    
+<string name="mapeat_text">\n
+     1.  Pink Olive\n
+     2.  Khushis Diner\n
+     3.  Ciao Roma\n
+     4.  Suruchi\n
+     5.  Petit Paris\n
+     6.  Red-Box\n
+     7.  Beirut Restaurant\n
+     8.  The Royal McGregor\n
+     9.  City Restaurant\n
+     10. The Tower \n
+     11. Mariachi\n
+     12. KFC
+</string>
+
+<string name="mapdrink_text">\n
+1.  Kilimanjaro Coffee\n
+2.  Beetlejuice\n
+3.  Beanscene\n
+4.  Elephants and Bagels\n
+5.  The Elephant House\n
+6.  56 North\n
+7.  The Counting House\n
+8.  The Southsider\n
+9.  The Greyfriars Bobby\n
+10. Malones Irish Bar\n
+11. Starbucks Coffee Co\n
+12. Teviot Row House
+
+</string>
+
+<string name="mapsleep_text">\n
+1.  Nicolson Apartments\n
+2.  Ten Hill Place Hotel\n
+3.  Hotel du Vin\n
+4.  Ibis Edinburgh Centre\n
+5.  The Bank Hotel\n
+6.  Euro Hostel\n
+7.  Hotel Missoni\n
+8.  Kenneth MacKenize Suite\n
+9.  Smart City Hostel\n
+10. Quartermile Apartments\n
+11. Radisson Blu\n
+12. Metro Hostel
+
+
+</string>
+
+<string name="addentry_label">Add Place</string>
+<string name="filterentries_label">Filter Options</string>
+<string name="restore_label">Restore Deleted</string> 
+<string name="map_label">Open Map</string>
+<string name="directionsmap_label">See central bus stations on the map</string>
+<string name="help_title">About/Help</string>
+<string name="help_label">About/Help</string>
+<string name="reset_label">Factory Reset</string>
+
+
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout 
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical" 
+android:layout_width="fill_parent" 
+android:layout_height="fill_parent"
+android:id="@+id/promptsleep">
+
+<EditText
+android:id="@+id/inputsleep1"
+android:layout_width="fill_parent" 
+android:layout_height="wrap_content" 
+android:hint="Enter Name"/>
+<EditText
+android:id="@+id/inputsleep2"
+android:layout_width="fill_parent" 
+android:layout_height="wrap_content" 
+android:hint="Enter Distance in Minutes"/>
+<EditText
+android:id="@+id/inputsleep3"
+android:layout_width="fill_parent" 
+android:layout_height="wrap_content" 
+android:hint="Enter number of stars (STB rating)" />
+<EditText
+android:id="@+id/inputsleep4"
+android:layout_width="fill_parent" 
+android:layout_height="wrap_content" 
+android:hint="Enter Type (i.e hotel,b&#38;b,etc)" />
+<EditText
+android:layout_width="fill_parent" 
+android:id="@+id/inputsleep5"
+android:layout_height="wrap_content" 
+android:hint="Enter Address"/> 
+ <EditText
+android:id="@+id/inputsleep6"
+android:layout_width="fill_parent" 
+android:layout_height="wrap_content" 
+android:hint="Enter Phone Number"/>
+
+<EditText
+android:id="@+id/inputsleep7"
+android:layout_width="fill_parent" 
+android:layout_height="wrap_content" 
+android:hint="Enter Website"/>
+
+</LinearLayout>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+      <menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/addentry" 
+android:title="@string/addentry_label" 
+/>
+
+<item android:id="@+id/filterentries" 
+android:title="@string/filterentries_label" 
+ />
+
+<item android:id="@+id/restore" 
+android:title="@string/restore_label" 
+ />
+
+<item android:id="@+id/map" 
+android:title="@string/map_label" 
+ />
+
+</menu>

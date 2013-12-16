@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout 
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical" 
+android:layout_width="fill_parent" 
+android:layout_height="fill_parent"
+android:id="@+id/promptdrink">
+
+<EditText
+android:id="@+id/inputdrink1"
+android:layout_width="fill_parent" 
+android:layout_height="wrap_content" 
+android:hint="Enter Name"/>
+<EditText
+android:id="@+id/inputdrink2"
+android:layout_width="fill_parent" 
+android:layout_height="wrap_content" 
+android:hint="Enter Distance in Minutes"/>
+<EditText
+android:id="@+id/inputdrink3"
+android:layout_width="fill_parent" 
+android:layout_height="wrap_content" 
+android:hint="Enter Type (i.e. cafe, bar, etc)" />
+<EditText
+android:layout_width="fill_parent" 
+android:id="@+id/inputdrink4"
+android:layout_height="wrap_content" 
+android:hint="Enter Address"/> 
+ <EditText
+android:id="@+id/inputdrink5"
+android:layout_width="fill_parent" 
+android:layout_height="wrap_content" 
+android:hint="Enter Phone Number"/>
+
+<EditText
+android:id="@+id/inputdrink6"
+android:layout_width="fill_parent" 
+android:layout_height="wrap_content" 
+android:hint="Enter Website"/>
+
+</LinearLayout>
+
